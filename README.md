@@ -1,1 +1,1 @@
-Xem video hướng dẫn tại: https://youtu.be/ypTJVAfx7AM
+[![Video Demo](https://img.youtube.com/vi/ypTJVAfx7AM/0.jpg)](https://youtu.be/ypTJVAfx7AM)
