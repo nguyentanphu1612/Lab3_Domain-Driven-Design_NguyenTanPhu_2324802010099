@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Lab3_2324802010099.API/Lab3_2324802010099.API.csproj" />
+  <Project Path="../Lab3_2324802010099.Application/Lab3_2324802010099.Application.csproj" />
+  <Project Path="../Lab3_2324802010099.Domain/Lab3_2324802010099.Domain.csproj" />
+  <Project Path="../Lab3_2324802010099.Infrastructure/Lab3_2324802010099.Infrastructure.csproj" />
+  <Project Path="Lab3_2324802010099.csproj" />
+</Solution>
